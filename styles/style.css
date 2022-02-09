@@ -1,0 +1,97 @@
+
+.fundoColorido {
+    background-image: url(/Imagens/Desktop\ -\ 2.png);
+    height: 9650px;
+    width: 100%;
+}
+
+.logoTitulo {
+    margin-top: 152px;
+}
+
+.logoPrincipal img {
+    height: 150px;
+    margin-left: 16px;
+}
+
+h1, p {
+    font-family: 'Playfair Display', serif;
+}
+
+.tituloPrimeiro h1 {
+    color: #0B8AE6;
+    font-size: 100px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-left: 48px;
+    
+}
+
+.restoTitulo  h1 {
+    color: #0B8AE6;
+    font-size: 100px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-align: right;
+    margin-left: 380px;
+    margin-top: 626px;
+}
+
+.ezin img {
+    height: 220px;
+    margin-left: 450px;
+    margin-top: 526px;
+}
+.cabecalho {
+    margin-top: 128px;
+    height: 1220px;
+}
+
+.centralCabecalho img {
+    height: 500px;
+    margin-left: 8px;
+    margin-top: 16px;
+}
+
+
+.fotoFinalCaebecalho img {
+    height: 400px;
+    margin-left: 32px;
+    margin-top: 826px;
+}
+
+.sessaoPrimeira {
+    height: 330px;
+}
+
+
+.sessaoPrimeira h1 {
+    color: #0B8AE6;
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-left: 63px;
+}
+
+.sessaoPrimeira p {
+    color: #ffff;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    margin-left: 64px;
+}
+
+.organizaIcon img {
+    height: 300px;
+}
+
+.organizaIcon {
+    display: flex;
+    align-items: center;
+    margin-left: 32px;
+    margin-right: 64px;
+}
+
+.espacamentoSessoes {
+    margin-top: 128px;
+}
