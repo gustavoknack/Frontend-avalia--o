@@ -6,49 +6,51 @@
 }
 
 .logoTitulo {
-    margin-top: 152px;
+    margin-top: 128px;
 }
 
 .logoPrincipal img {
-    height: 150px;
-    margin-left: 16px;
+    height: 130px;
+    margin-left: 64px;
 }
 
 h1, p {
     font-family: 'Playfair Display', serif;
+    color: #0B8AE6;
 }
 
 .tituloPrimeiro h1 {
     color: #0B8AE6;
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
-    margin-left: 48px;
+    margin-left: 100px;
     
 }
 
 .restoTitulo  h1 {
     color: #0B8AE6;
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     text-align: right;
     margin-left: 380px;
-    margin-top: 626px;
+    margin-right: 150px;
+    margin-top: 550px;
 }
 
 .ezin img {
-    height: 220px;
+    height: 140px;
     margin-left: 450px;
-    margin-top: 526px;
+    margin-top: 450px;
 }
 .cabecalho {
     margin-top: 128px;
-    height: 1220px;
+    height: 920px;
 }
 
 .centralCabecalho img {
-    height: 500px;
+    height: 400px;
     margin-left: 8px;
     margin-top: 16px;
 }
@@ -56,8 +58,8 @@ h1, p {
 
 .fotoFinalCaebecalho img {
     height: 400px;
-    margin-left: 32px;
-    margin-top: 826px;
+    margin-left: 128px;
+    margin-top: 526px;
 }
 
 .sessaoPrimeira {
@@ -70,7 +72,7 @@ h1, p {
     font-size: 60px;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
-    margin-left: 63px;
+    margin-left: 64px;
 }
 
 .sessaoPrimeira p {
@@ -94,4 +96,69 @@ h1, p {
 
 .espacamentoSessoes {
     margin-top: 128px;
+}
+
+#carouselExampleDark {
+    height: 400px;
+    width: 950px;
+    
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.tituloCarossel h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.sessaoSegunda {
+    height: 560px;
+}
+
+.depoimento h2 {
+    color: #0BE651;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-left: 64px;
+}
+
+.depoimento p {
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    margin-left: 64px;
+}
+
+.imagemSessaoTerceira img {
+    margin-left: 64px;
+    height: 400px;
+    margin-right: 32px;
+}
+
+.sessaoTerceira {
+    height: 410px;
+}
+
+.contratos img {
+    height: 120px;
+    margin-left: 128px;
+}
+
+.pagamentos img {
+    height: 120px;
+    margin-left: 32px;
+}
+
+.agenda img {
+    height: 120px;
+    margin-left: 32px;
+}
+
+.financeiro img {
+    height: 120px;
+    
 }
