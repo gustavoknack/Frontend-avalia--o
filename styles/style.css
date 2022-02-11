@@ -1,7 +1,7 @@
 
 .fundoColorido {
     background-image: url(/Imagens/Desktop\ -\ 2.png);
-    height: 9650px;
+
     width: 100%;
 }
 
@@ -118,7 +118,7 @@ h1, p {
 }
 
 .depoimento h2 {
-    color: #0BE651;
+    color: #0ce651;
     font-size: 50px;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
@@ -143,13 +143,33 @@ h1, p {
     height: 410px;
 }
 
+.contratos {
+    margin-left: 64px;
+}
+
 .contratos img {
     height: 120px;
-    margin-left: 128px;
+    margin-left: 48px;
+}
+
+.contratos p {
+    text-align: center;
+}
+
+.pagamentos {
+    margin-left: 32px;
 }
 
 .pagamentos img {
     height: 120px;
+    margin-left: 25px;
+}
+
+.pagamentos p {
+    text-align: center;
+}
+
+.agenda {
     margin-left: 32px;
 }
 
@@ -158,7 +178,79 @@ h1, p {
     margin-left: 32px;
 }
 
-.financeiro img {
+.agenda p {
+    text-align: center;
+    margin-left: -50px;
+}
+
+.financeiro {
+    margin-left: -32px;
+}
+
+.financeiro  img {
     height: 120px;
+    margin-left: 32px;
+}
+
+.financeiro  p {
+    text-align: center;
+    margin-left: -115px;
+}
+
+.diferenciais p {
+    color: #fff;
+    text-align: center;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.diferenciais {
+    height: 220px;
+}
+
+.ultimaSessaoImagem img {
+    height: 400px;
+    margin-left: 128px;
+}
+
+.ultimaSessaoTituloBotao {
+    margin-left: 64px;
+}
+
+.ultimaSessaoTituloBotao h1 {
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.cta {
+    background-color: #0ce651;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 20px;
     
 }
+
+.ultimaSessao {
+    height: 400px;
+}
+
+.redes img {
+    height: 40px;
+    margin-left: 64px;
+    margin-bottom: 32px;
+}
+
+.facebook img{
+    margin-left: 16px;
+}
+
+.espacamentoFooter {
+    margin-top: 16px;
+}
+
+.footer {
+    height: 80px;
+}
+
